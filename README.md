@@ -3,7 +3,7 @@
 
 ### Hi there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="20px">
 
-I'm a dedicated Software Engineering student studying at the University of Bahrain, and an aspiring full-stack developer currently undergoing training at [Reboot](https://learn.reboot01.com).
+I'm a dedicated Software Engineering student studying at the University of Bahrain, and an aspiring full-stack developer currently undergoing training at [Reboot](https://www.reboot01.com).
 
 Here, I showcase side projects where I explore and experiment with my passion for software development and continuously learn new technologies.
 
